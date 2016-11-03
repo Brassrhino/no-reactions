@@ -1,0 +1,6 @@
+.reactions {
+    display: none;
+}
+.btn-reaction {
+    display: none;
+}
