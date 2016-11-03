@@ -1,2 +1,3 @@
 # no-reactions
-i don't like reactions on discord.
+I don't like reactions on Discord.
+This gets rid of reactions on Discord.
