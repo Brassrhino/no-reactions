@@ -1,0 +1,8 @@
+//META{"name":"No_Reactions","description":"This gets rid of reactions.","author":"Brassrhino","version":"1.0"}*//{}
+
+.reactions {
+    display: none;
+}
+.btn-reaction {
+    display: none;
+}
